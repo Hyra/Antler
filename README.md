@@ -7,6 +7,8 @@
 [![Join the chat at https://gitter.im/Hyra/Antler](https://img.shields.io/gitter/room/Hyra/Antler.svg?style=flat-square)](https://gitter.im/Hyra/Antler)
 
 # What is Antler
+
+[![Join the chat at https://gitter.im/Hyra/Antler](https://badges.gitter.im/Hyra/Antler.svg)](https://gitter.im/Hyra/Antler?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Antler is a starterkit or boilerplate app to kickstart your next Front-end project using all the bleeding edge libraries in an easy to understand architecture.
 
 # Demo
